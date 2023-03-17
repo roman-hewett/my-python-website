@@ -1,0 +1,62 @@
+header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-size: x-large;
+    color: white;
+   font-family:'Rubik Iso', cursive ;
+}
+li{
+    margin: 0px 10px;
+}
+
+
+
+section{
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+section img{
+    height:600px;
+    width:450px;
+    border-radius: 200px;
+}
+div{
+    width: 70%;
+    
+}
+body{
+    font-size: x-large;
+    color:black;
+}
+
+h1{
+    font-family:'Rubik Iso', cursive ;
+}
+
+p{
+    font-family: 'Oswald', sans-serif; 
+}
+
+button{
+    height:100px;
+    width: 100px;
+    padding: 10px;
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: bisque;
+    font-family: 'Rubik Iso', cursive ;
+}
+
+
